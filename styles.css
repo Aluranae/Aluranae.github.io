@@ -4,8 +4,8 @@
 .container {
     width: 80%;
     margin: auto;
-    overflow: hidden;
-}
+        overflow: hidden;
+    }
 
 /* Styles pour les images */
 .img-reduite {
@@ -124,7 +124,7 @@ body.hÃ©bergement .text-hÃ©bergement {
 
 /* Nourriture */
 body.nourriture .text-nourriture {
-    color: #black;
+    color: black;
     text-shadow:
     -1px -1px 0 white,
     1px -1px 0 white,
