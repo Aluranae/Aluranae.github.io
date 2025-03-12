@@ -182,11 +182,11 @@ body.avion::before {
 
 
 body.hÃ©bergement {
-    background-image: url('https://i.ibb.co/VjH2vSF/Hebergement.jpg');
+    background-image: url('https://i.ibb.co/wF86PRYy/Hebergement.jpg');
 }
 
 body.hÃ©bergement::before {
-    background-image: url('https://i.ibb.co/VjH2vSF/Hebergement.jpg');
+    background-image: url('https://i.ibb.co/wF86PRYy/Hebergement.jpg');
     filter: grayscale(40%);
 }
 
